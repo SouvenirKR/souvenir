@@ -29,12 +29,13 @@ Settings nécessaires au bon fonctionnement de Souvenir :
 - Sort "Lancer la canne à pêche" sur la touche Q ;
 - Sort "Tirer la canne à pêche" sur la touche E ;
 - Être en résolution 1920x1080 & en plein écran sur nostale ;
+- Zommer à fond sur votre personnage ;
 - Être à 2 cells minimum d'un autre pêcheur pour éviter une lecture d'image biaisée ;
 - Se mettre sur le côté comme indiquer sur le screen ci-dessous ;
 - Exemple d'un bon setup : <br/><br/>
 <a href="https://zupimages.net/viewer.php?id=21/28/tsy1.jpg"><img src="https://zupimages.net/up/21/28/tsy1.jpg" alt="" /></a>
 
-! APRES AVOIR LANCER LE .EXE IL FAUT APPUYER UNE PREMIERE FOIS SUR Q POUR LANCER LA PECHE !
+! APRES AVOIR LANCER LE .EXE IL FAUT APPUYER UNE PREMIERE FOIS SUR Q POUR LANCER LA PECHE !<br/>
 Puis après, vous pouvez dormir.
 
 Raccourcis disponibles :
