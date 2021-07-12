@@ -39,6 +39,8 @@ Raccourcis disponibles :
 - F1 = Mettre en pause la pêche
 - F2 = Stopper la pêche
 
+<em>Evitez de mettre le bout de la canne à pêche dans un endroit blanc/gris</em>
+
 ## Futurs ajouts
 La version actuelle n'étant que la première, elle est très ship.
 
