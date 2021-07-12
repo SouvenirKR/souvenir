@@ -34,7 +34,7 @@ Settings nécessaires au bon fonctionnement de Souvenir :
 - Exemple d'un bon setup : <br/><br/>
 <a href="https://zupimages.net/viewer.php?id=21/28/tsy1.jpg"><img src="https://zupimages.net/up/21/28/tsy1.jpg" alt="" /></a>
 
-! APRES AVOIR LANCER LE .EXE IL FAUT APPUYER UNE PREMIERE FOIS SUR Q POUR LANCER LA PECHE !
+! APRES AVOIR LANCER LE .EXE IL FAUT APPUYER UNE PREMIERE FOIS SUR Q POUR LANCER LA PECHE !<br/>
 Puis après, vous pouvez dormir.
 
 Raccourcis disponibles :
