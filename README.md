@@ -14,8 +14,6 @@ Pour installer le logiciel, il suffit de télécharger le .zip comme ci-dessous.
 
 Ensuite, de-zippez le .zip et mettez le dossier où vous le souhaitez.
 
-! N'OUBLIEZ PAS DE LANCER LE .EXE CHOISI EN MODE ADMINISTRATEUR !
-
 Il y a deux .exe différents :
 - souvenir_noskin.exe pour ceux qui n'ont pas le skin pêcheur ;
 - souvenir_skin.exe pour ceux qui ont le skin pêcheur.
@@ -23,6 +21,8 @@ Il y a deux .exe différents :
 Veuillez lancer le bon sinon ça ne marchera pas !
 
 ## Guide d'usage
+
+! N'OUBLIEZ PAS DE LANCER LE .EXE CHOISI EN MODE ADMINISTRATEUR !
 
 Settings nécessaires au bon fonctionnement de Souvenir :
 
@@ -34,9 +34,6 @@ Settings nécessaires au bon fonctionnement de Souvenir :
 - Se mettre sur le côté comme indiquer sur le screen ci-dessous ;
 - Exemple d'un bon setup : <br/><br/>
 <a href="https://zupimages.net/viewer.php?id=21/28/tsy1.jpg"><img src="https://zupimages.net/up/21/28/tsy1.jpg" alt="" /></a>
-
-! APRES AVOIR LANCER LE .EXE IL FAUT APPUYER UNE PREMIERE FOIS SUR Q POUR LANCER LA PECHE !<br/>
-Puis après, vous pouvez dormir.
 
 Raccourcis disponibles :
 - F1 = Mettre en pause la pêche
