@@ -15,6 +15,11 @@ Ensuite, de-zippez le .zip et mettez le dossier où vous le souhaitez.
 ! N'OUBLIEZ PAS DE LANCER LE .EXE CHOISI EN MODE ADMINISTRATEUR !
 
 Settings nécessaires au bon fonctionnement de Souvenir :
+- Être en résolution 1920x1080 sur Windows
+- Mise à échelle à 100% (recommandé)
+
+<a href="https://zupimages.net/viewer.php?id=21/30/oqhp.png"><img src="https://zupimages.net/up/21/30/oqhp.png" alt="" /></a>
+<a href="https://zupimages.net/viewer.php?id=21/30/00in.png"><img src="https://zupimages.net/up/21/30/00in.png" alt="" /></a>
 
 - Sort "Lancer la canne à pêche" sur la touche Q ;
 - Sort "Tirer la canne à pêche" sur la touche E ;
