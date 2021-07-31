@@ -30,7 +30,10 @@ Raccourcis disponibles :
 - F1 = Mettre en pause la pêche
 - F2 = Stopper la pêche
 
-<em>Evitez de mettre le bout de la canne à pêche dans un endroit blanc/gris</em>
+<em>Evitez de mettre le bout de la canne à pêche dans un endroit blanc/gris</em><br>
+<em>Evitez aussi les ombres & les arbres</em>
+
+<em>Si vous ne savez pas où vous mettre sur une map, demandez moi en MP, j'ai un screen de chaque endroit fonctionnel</em>
 
 ## Nouveaux ajouts
 - Menu sur le lancement du bot ;
