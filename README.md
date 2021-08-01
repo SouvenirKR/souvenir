@@ -30,6 +30,7 @@ Settings nécessaires au bon fonctionnement de Souvenir :
 - Se mettre sur le côté comme indiquer sur le screen ci-dessous ;
 - Exemple d'un bon setup : <br/><br/>
 <a href="https://zupimages.net/viewer.php?id=21/30/eo8i.png"><img src="https://zupimages.net/up/21/30/eo8i.png" alt="" /></a>
+<a href="https://zupimages.net/viewer.php?id=21/30/r72o.png"><img src="https://zupimages.net/up/21/30/r72o.png" alt="" /></a>
 
 Raccourci disponible :
 - F2 = Stopper la pêche
