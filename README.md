@@ -31,8 +31,7 @@ Settings nécessaires au bon fonctionnement de Souvenir :
 - Exemple d'un bon setup : <br/><br/>
 <a href="https://zupimages.net/viewer.php?id=21/30/eo8i.png"><img src="https://zupimages.net/up/21/30/eo8i.png" alt="" /></a>
 
-Raccourcis disponibles :
-- F1 = Mettre en pause la pêche
+Raccourci disponible :
 - F2 = Stopper la pêche
 
 <em>Evitez de mettre le bout de la canne à pêche dans un endroit blanc/gris</em><br>
@@ -41,7 +40,7 @@ Raccourcis disponibles :
 <em>Si vous ne savez pas où vous mettre sur une map, demandez moi en MP, j'ai un screen de chaque endroit fonctionnel</em>
 
 ## Nouveaux ajouts
-- Menu sur le lancement du bot ;
+- Menu sur le lancement ;
 - Ajout du buff 50% exp ;
 - Utilisation du carno possible ;
 - Les zones "Lisière au bois des esprits", "Bois contaminé" et "Griffes de Valakus" sont désormais farmables.
